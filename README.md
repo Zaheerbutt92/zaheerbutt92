@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Zaheer
 
-<!--
-**Zaheerbutt92/zaheerbutt92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer 👨‍💻 based in Abu Dhabi, UAE, who is passionate about latest technologies and open source.
 
-Here are some ideas to get you started:
+Here are few things to know about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on DotNet / Angular / React
+- 🌱 I’m currently learning Development and Business
+- 👯 I’m looking to collaborate on Latest Technologies 
+- 🤔 I’m looking for help with peace in spirit
+- 💬 Ask me about Gym
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/zaheer-ul-hassan-336811106/" rel="nofollow"><img src="https://camo.githubusercontent.com/69b5ee1e2ac5d96f1cf20f6da5d286ac644478494a0faa333de91d8b55bb7679/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f686166697a6d7568616d6d6164617a65656d2f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/hafizmuhammadazeem/" style="max-width: 100%;"></a>
+- ⚡ Fun fact: I think I am developer
+
